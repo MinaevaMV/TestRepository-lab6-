@@ -1,0 +1,10 @@
+C:\Users\Маша\source\repos\GUI_command_cmd\GUI_command_cmd\bin\Debug\GUI_command_cmd.exe.config
+C:\Users\Маша\source\repos\GUI_command_cmd\GUI_command_cmd\bin\Debug\GUI_command_cmd.exe
+C:\Users\Маша\source\repos\GUI_command_cmd\GUI_command_cmd\bin\Debug\GUI_command_cmd.pdb
+C:\Users\Маша\source\repos\GUI_command_cmd\GUI_command_cmd\obj\Debug\GUI_command_cmd.csprojResolveAssemblyReference.cache
+C:\Users\Маша\source\repos\GUI_command_cmd\GUI_command_cmd\obj\Debug\GUI_command_cmd.Form1.resources
+C:\Users\Маша\source\repos\GUI_command_cmd\GUI_command_cmd\obj\Debug\GUI_command_cmd.Properties.Resources.resources
+C:\Users\Маша\source\repos\GUI_command_cmd\GUI_command_cmd\obj\Debug\GUI_command_cmd.csproj.GenerateResource.cache
+C:\Users\Маша\source\repos\GUI_command_cmd\GUI_command_cmd\obj\Debug\GUI_command_cmd.csproj.CoreCompileInputs.cache
+C:\Users\Маша\source\repos\GUI_command_cmd\GUI_command_cmd\obj\Debug\GUI_command_cmd.exe
+C:\Users\Маша\source\repos\GUI_command_cmd\GUI_command_cmd\obj\Debug\GUI_command_cmd.pdb
